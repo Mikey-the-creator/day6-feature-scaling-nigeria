@@ -2,6 +2,8 @@
 
 This mini-project demonstrates **feature scaling** (Min–Max) on a tiny dataset of Nigerian states (Population, Temperature).
 
+![Population vs Temperature](data/population_temperature_bar.png)
+
 ## What’s inside
 - `data/nigerian_states.csv` — raw sample data you can edit.
 - `scripts/matrix_ops.py` — reads CSV, scales selected numeric columns, writes `nigerian_states_scaled.csv`.
